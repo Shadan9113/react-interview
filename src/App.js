@@ -5,8 +5,8 @@ import ImageSlider from './ImageSlider/ImageSlider';
 function App() {
   return (
     <div className="App">
-      {/* <RandomColor />
-      <StarRating /> */}
+      <RandomColor />
+      <StarRating />
       <ImageSlider />
     </div>
   );
